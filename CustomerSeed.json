@@ -1,0 +1,15 @@
+{
+    "Type": "com.apple.configuration.softwareupdate.settings",
+    "Identifier": "com.yourorg.configuration.softwareupdate.settings",
+    "Payload": {
+        "Beta": {
+            "ProgramEnrollment": "Allowed",
+            "OfferPrograms": [
+                {
+                    "Description": "Tahoe Beta",
+                    "Token": "YourTokenGoesHere"
+                }
+            ]
+        }
+    }
+}
